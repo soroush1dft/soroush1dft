@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @soroush1dft
-- 👀 I’m interested in capital markets and investing
-- 🌱 I’m currently learning how to work with LSTM to use it to predict prices or financial factors of trading options
+- 👀 I’m interested in statistics and financial mathematics
+- 🌱 I’m currently learning how to utilize machine learning and deep learning in financial predictions and storytelling
 - 💞️ I’m looking to collaborate on powerfull teams
-- 📫 How to reach me Email_Address(ref: soroush.dft@gmail.com) || Whats_App_Id(ref: https://wa.me/989138056481)
+- 📫 How to reach me Email_Address(ref: soroush.dft@gmail.com) || Linkedin (ref: https://www.linkedin.com/in/soroush-daftarian-697710196)
 
 <!---
 soroush1dft/soroush1dft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
